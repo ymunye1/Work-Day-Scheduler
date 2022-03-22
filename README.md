@@ -1,5 +1,9 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
+Link to my github online schedular app https://ymunye1.github.io/Work-Day-Scheduler/
+Link to my github code https://github.com/ymunye1/Work-Day-Scheduler
+
+
 ## Your Task
 
 I created a simple calendar application that allows a user to save events for each hour of the day . This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. Momentjs was used in creating the time feature
